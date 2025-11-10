@@ -1,9 +1,3 @@
-markdown# Gem Guardian  
-**A 2D Top-Down Unity Game Demonstrating OOP & Design Patterns**  
-**Author**: Branice Kazira Otiende  
-**Course**: Object-Oriented Programming with Unity  
-**Submission Date**: November 10, 2025  
-
 ---
 
 ## Game Overview  
